@@ -1,0 +1,9 @@
+Prim: 0.30 si final: 3.70
+
+Prim: 1.40 si final: 4.60
+
+Prim: 1.77 si final: 6.23
+
+Prim: 4.80 si final: 9.20
+
+No aspensors can be placed...

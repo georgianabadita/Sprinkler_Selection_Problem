@@ -1,0 +1,95 @@
+Prim: -120.00 si final: 172.00
+
+Prim: -116.00 si final: 202.00
+
+Prim: -92.00 si final: 222.00
+
+Prim: -85.00 si final: 229.00
+
+Prim: -76.00 si final: 236.00
+
+Prim: -69.00 si final: 219.00
+
+Prim: -65.00 si final: 193.00
+
+Prim: -65.00 si final: 201.00
+
+Prim: -58.00 si final: 224.00
+
+Prim: -38.00 si final: 228.00
+
+Prim: -38.00 si final: 290.00
+
+Prim: -36.00 si final: 182.00
+
+Prim: -34.00 si final: 192.00
+
+Prim: -29.00 si final: 135.00
+
+Prim: -28.00 si final: 262.00
+
+Prim: -25.00 si final: 241.00
+
+Prim: -22.00 si final: 266.00
+
+Prim: -22.00 si final: 210.00
+
+Prim: -10.00 si final: 290.00
+
+Prim: -8.00 si final: 306.00
+
+Prim: -6.00 si final: 294.00
+
+Prim: 3.00 si final: 139.00
+
+Prim: 7.00 si final: 149.00
+
+Prim: 10.00 si final: 302.00
+
+Prim: 11.00 si final: 185.00
+
+Prim: 12.00 si final: 292.00
+
+Prim: 12.00 si final: 224.00
+
+Prim: 19.00 si final: 291.00
+
+Prim: 21.00 si final: 113.00
+
+Prim: 22.00 si final: 78.00
+
+Prim: 26.00 si final: 212.00
+
+Prim: 26.00 si final: 118.00
+
+Prim: 29.00 si final: 241.00
+
+Prim: 30.00 si final: 166.00
+
+Prim: 31.00 si final: 281.00
+
+Prim: 35.00 si final: 133.00
+
+Prim: 36.00 si final: 118.00
+
+Prim: 39.00 si final: 275.00
+
+Prim: 42.00 si final: 192.00
+
+Prim: 53.00 si final: 225.00
+
+Prim: 53.00 si final: 165.00
+
+Prim: 56.00 si final: 268.00
+
+Prim: 72.00 si final: 252.00
+
+Prim: 72.00 si final: 242.00
+
+Prim: 76.00 si final: 138.00
+
+Prim: 94.00 si final: 184.00
+
+Prim: 106.00 si final: 186.00
+
+You will need a min of  2 aspensors. 

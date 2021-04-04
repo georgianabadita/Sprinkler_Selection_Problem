@@ -1,0 +1,5 @@
+Prim: 49.01 si final: 850.99
+
+Prim: 184.85 si final: 275.15
+
+No aspensors can be placed...

@@ -1,0 +1,15 @@
+Prim: -31.36 si final: 39.36
+
+Prim: -16.01 si final: 22.01
+
+Prim: -12.21 si final: 46.21
+
+Prim: -10.81 si final: 70.81
+
+Prim: 19.38 si final: 60.62
+
+Prim: 33.04 si final: 54.96
+
+Prim: 35.13 si final: 46.87
+
+No aspensors can be placed...

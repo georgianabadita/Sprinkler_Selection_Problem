@@ -1,0 +1,21 @@
+Prim: -19.00 si final: 45.00
+
+Prim: -10.00 si final: 50.00
+
+Prim: -6.50 si final: 8.50
+
+Prim: -3.50 si final: 7.50
+
+Prim: -3.50 si final: 9.50
+
+Prim: 19.00 si final: 67.00
+
+Prim: 49.00 si final: 89.00
+
+Prim: 57.00 si final: 75.00
+
+Prim: 64.00 si final: 90.00
+
+Prim: 84.00 si final: 114.00
+
+You will need a min of  4 aspensors. 

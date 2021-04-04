@@ -1,0 +1,2127 @@
+Prim: -77649.06 si final: 77727.06
+
+Prim: -70447.06 si final: 82783.06
+
+Prim: -68116.61 si final: 84380.61
+
+Prim: -67740.20 si final: 75210.20
+
+Prim: -67323.73 si final: 74323.73
+
+Prim: -67184.87 si final: 79592.87
+
+Prim: -67084.11 si final: 73998.11
+
+Prim: -66844.06 si final: 72346.06
+
+Prim: -66698.57 si final: 78814.57
+
+Prim: -65927.51 si final: 66575.51
+
+Prim: -65623.16 si final: 69567.16
+
+Prim: -65462.28 si final: 76046.28
+
+Prim: -65160.27 si final: 82010.27
+
+Prim: -64710.54 si final: 91168.54
+
+Prim: -64626.53 si final: 78582.53
+
+Prim: -63984.88 si final: 67382.88
+
+Prim: -63841.33 si final: 85609.33
+
+Prim: -63680.40 si final: 79466.40
+
+Prim: -63606.26 si final: 93130.26
+
+Prim: -63589.41 si final: 76817.41
+
+Prim: -62806.38 si final: 86596.38
+
+Prim: -62763.28 si final: 88881.28
+
+Prim: -62729.66 si final: 74309.66
+
+Prim: -62533.24 si final: 81351.24
+
+Prim: -62488.10 si final: 82704.10
+
+Prim: -62342.16 si final: 71090.16
+
+Prim: -61896.65 si final: 67746.65
+
+Prim: -61608.87 si final: 83022.87
+
+Prim: -61194.23 si final: 73536.23
+
+Prim: -61022.00 si final: 61642.00
+
+Prim: -61012.15 si final: 82762.15
+
+Prim: -60926.09 si final: 67898.09
+
+Prim: -60523.81 si final: 63107.81
+
+Prim: -60149.94 si final: 77401.94
+
+Prim: -60077.88 si final: 68755.88
+
+Prim: -59412.10 si final: 94364.10
+
+Prim: -59132.43 si final: 90998.43
+
+Prim: -59124.83 si final: 91010.83
+
+Prim: -58739.14 si final: 95971.14
+
+Prim: -58490.39 si final: 61850.39
+
+Prim: -58284.15 si final: 60926.15
+
+Prim: -58219.83 si final: 69291.83
+
+Prim: -58027.81 si final: 85693.81
+
+Prim: -58018.50 si final: 68846.50
+
+Prim: -57729.19 si final: 80747.19
+
+Prim: -55973.58 si final: 79973.58
+
+Prim: -55458.38 si final: 72302.38
+
+Prim: -54821.61 si final: 58477.61
+
+Prim: -54777.81 si final: 68853.81
+
+Prim: -54636.33 si final: 94814.33
+
+Prim: -54387.47 si final: 61383.47
+
+Prim: -53884.99 si final: 82636.99
+
+Prim: -53604.26 si final: 69984.26
+
+Prim: -53386.11 si final: 54548.11
+
+Prim: -52947.93 si final: 60039.93
+
+Prim: -52919.93 si final: 73719.93
+
+Prim: -52902.74 si final: 98104.74
+
+Prim: -52093.22 si final: 63141.22
+
+Prim: -52026.24 si final: 74896.24
+
+Prim: -51056.55 si final: 96032.55
+
+Prim: -51032.03 si final: 61266.03
+
+Prim: -51027.55 si final: 92751.55
+
+Prim: -51013.34 si final: 85949.34
+
+Prim: -50706.42 si final: 83056.42
+
+Prim: -50459.58 si final: 98751.58
+
+Prim: -50435.70 si final: 99431.70
+
+Prim: -49712.60 si final: 52674.60
+
+Prim: -49448.63 si final: 70264.63
+
+Prim: -49144.48 si final: 100162.48
+
+Prim: -49128.48 si final: 74632.48
+
+Prim: -48902.47 si final: 77598.47
+
+Prim: -48675.09 si final: 69031.09
+
+Prim: -48673.02 si final: 95039.02
+
+Prim: -48558.18 si final: 68276.18
+
+Prim: -48483.33 si final: 91219.33
+
+Prim: -48103.32 si final: 93951.32
+
+Prim: -47846.93 si final: 61624.93
+
+Prim: -47819.98 si final: 100801.98
+
+Prim: -47794.05 si final: 59618.05
+
+Prim: -47491.70 si final: 102375.70
+
+Prim: -47431.88 si final: 107335.88
+
+Prim: -47384.47 si final: 107196.47
+
+Prim: -47082.76 si final: 94928.76
+
+Prim: -46728.12 si final: 84012.12
+
+Prim: -46335.75 si final: 50633.75
+
+Prim: -46323.14 si final: 94347.14
+
+Prim: -46292.66 si final: 97184.66
+
+Prim: -46285.44 si final: 96037.44
+
+Prim: -46213.45 si final: 52413.45
+
+Prim: -46196.26 si final: 74264.26
+
+Prim: -46141.07 si final: 94007.07
+
+Prim: -45509.10 si final: 111189.10
+
+Prim: -45288.91 si final: 58544.91
+
+Prim: -45159.26 si final: 69845.26
+
+Prim: -45018.04 si final: 54016.04
+
+Prim: -44697.43 si final: 102511.43
+
+Prim: -44579.64 si final: 84287.64
+
+Prim: -44361.41 si final: 108327.41
+
+Prim: -44217.64 si final: 97913.64
+
+Prim: -44193.94 si final: 65071.94
+
+Prim: -44121.85 si final: 84735.85
+
+Prim: -44033.24 si final: 104143.24
+
+Prim: -43741.76 si final: 60829.76
+
+Prim: -43707.47 si final: 104435.47
+
+Prim: -43593.38 si final: 107567.38
+
+Prim: -43561.85 si final: 85295.85
+
+Prim: -43434.59 si final: 99520.59
+
+Prim: -43269.89 si final: 50839.89
+
+Prim: -42706.53 si final: 78860.53
+
+Prim: -42680.49 si final: 103498.49
+
+Prim: -42500.47 si final: 108176.47
+
+Prim: -42374.05 si final: 94282.05
+
+Prim: -42230.20 si final: 90378.20
+
+Prim: -42199.06 si final: 62473.06
+
+Prim: -41916.34 si final: 105182.34
+
+Prim: -41333.99 si final: 52679.99
+
+Prim: -41099.96 si final: 104029.96
+
+Prim: -41009.07 si final: 41997.07
+
+Prim: -40831.42 si final: 105807.42
+
+Prim: -40743.21 si final: 61433.21
+
+Prim: -40656.65 si final: 87616.65
+
+Prim: -40586.97 si final: 98104.97
+
+Prim: -40270.98 si final: 101136.98
+
+Prim: -40251.39 si final: 62145.39
+
+Prim: -40242.64 si final: 116316.64
+
+Prim: -39889.89 si final: 60063.89
+
+Prim: -39758.43 si final: 54988.43
+
+Prim: -39681.89 si final: 43697.89
+
+Prim: -39581.18 si final: 65359.18
+
+Prim: -39269.52 si final: 50131.52
+
+Prim: -39109.61 si final: 58391.61
+
+Prim: -38989.94 si final: 102259.94
+
+Prim: -38784.07 si final: 50660.07
+
+Prim: -38719.10 si final: 48167.10
+
+Prim: -38692.39 si final: 89638.39
+
+Prim: -38683.31 si final: 67301.31
+
+Prim: -38474.45 si final: 79854.45
+
+Prim: -38206.92 si final: 45148.92
+
+Prim: -38081.88 si final: 48037.88
+
+Prim: -38026.98 si final: 100458.98
+
+Prim: -37755.83 si final: 68889.83
+
+Prim: -37523.67 si final: 58947.67
+
+Prim: -37468.45 si final: 113232.45
+
+Prim: -37389.84 si final: 114297.84
+
+Prim: -37370.28 si final: 79368.28
+
+Prim: -37150.42 si final: 57026.42
+
+Prim: -37028.02 si final: 63194.02
+
+Prim: -36941.71 si final: 67677.71
+
+Prim: -36865.39 si final: 75667.39
+
+Prim: -36726.45 si final: 54686.45
+
+Prim: -36621.15 si final: 39099.15
+
+Prim: -36426.79 si final: 71430.79
+
+Prim: -36357.67 si final: 68103.67
+
+Prim: -36204.47 si final: 53244.47
+
+Prim: -36055.59 si final: 101831.59
+
+Prim: -35926.20 si final: 108782.20
+
+Prim: -35859.37 si final: 100485.37
+
+Prim: -35639.00 si final: 53489.00
+
+Prim: -35598.08 si final: 105714.08
+
+Prim: -35586.21 si final: 72252.21
+
+Prim: -35562.10 si final: 50730.10
+
+Prim: -35267.20 si final: 107683.20
+
+Prim: -35035.33 si final: 66245.33
+
+Prim: -34997.50 si final: 56367.50
+
+Prim: -34996.65 si final: 105558.65
+
+Prim: -34824.48 si final: 121308.48
+
+Prim: -34786.18 si final: 68008.18
+
+Prim: -34594.21 si final: 74020.21
+
+Prim: -34431.72 si final: 95915.72
+
+Prim: -34258.87 si final: 55970.87
+
+Prim: -34067.22 si final: 67515.22
+
+Prim: -33960.27 si final: 56456.27
+
+Prim: -33888.11 si final: 35624.11
+
+Prim: -33816.68 si final: 60690.68
+
+Prim: -33784.77 si final: 81698.77
+
+Prim: -33698.66 si final: 87930.66
+
+Prim: -33676.94 si final: 38148.94
+
+Prim: -33657.69 si final: 40165.69
+
+Prim: -33638.59 si final: 106394.59
+
+Prim: -33588.27 si final: 70480.27
+
+Prim: -33198.68 si final: 43364.68
+
+Prim: -33150.06 si final: 105446.06
+
+Prim: -33090.40 si final: 83528.40
+
+Prim: -33014.22 si final: 67792.22
+
+Prim: -33004.10 si final: 94632.10
+
+Prim: -32958.53 si final: 107716.53
+
+Prim: -32956.78 si final: 109624.78
+
+Prim: -32671.09 si final: 119165.09
+
+Prim: -32637.73 si final: 106087.73
+
+Prim: -31938.96 si final: 59564.96
+
+Prim: -31802.34 si final: 39434.34
+
+Prim: -31696.14 si final: 59434.14
+
+Prim: -31680.14 si final: 84220.14
+
+Prim: -31653.72 si final: 109035.72
+
+Prim: -31315.33 si final: 107999.33
+
+Prim: -31305.86 si final: 118211.86
+
+Prim: -31181.82 si final: 118771.82
+
+Prim: -31138.56 si final: 33262.56
+
+Prim: -31099.80 si final: 34431.80
+
+Prim: -30903.69 si final: 77437.69
+
+Prim: -30771.61 si final: 124647.61
+
+Prim: -30728.71 si final: 112700.71
+
+Prim: -30537.23 si final: 72209.23
+
+Prim: -30352.46 si final: 124822.46
+
+Prim: -30306.98 si final: 37772.98
+
+Prim: -30180.03 si final: 81342.03
+
+Prim: -30139.35 si final: 106229.35
+
+Prim: -29986.86 si final: 79168.86
+
+Prim: -29711.08 si final: 34369.08
+
+Prim: -29641.82 si final: 89103.82
+
+Prim: -29541.11 si final: 99647.11
+
+Prim: -29466.97 si final: 119360.97
+
+Prim: -29459.39 si final: 72937.39
+
+Prim: -29059.85 si final: 60987.85
+
+Prim: -28791.81 si final: 90935.81
+
+Prim: -28774.47 si final: 79782.47
+
+Prim: -28726.39 si final: 86934.39
+
+Prim: -28707.15 si final: 125797.15
+
+Prim: -28626.52 si final: 92758.52
+
+Prim: -28609.82 si final: 40801.82
+
+Prim: -28558.64 si final: 99144.64
+
+Prim: -28395.77 si final: 88251.77
+
+Prim: -28219.21 si final: 36129.21
+
+Prim: -28154.53 si final: 113502.53
+
+Prim: -28082.65 si final: 89460.65
+
+Prim: -28075.07 si final: 92577.07
+
+Prim: -28036.81 si final: 42744.81
+
+Prim: -27883.26 si final: 107987.26
+
+Prim: -27765.89 si final: 78625.89
+
+Prim: -27703.82 si final: 102159.82
+
+Prim: -27703.75 si final: 38263.75
+
+Prim: -27385.67 si final: 58743.67
+
+Prim: -27320.91 si final: 27954.91
+
+Prim: -27250.89 si final: 105668.89
+
+Prim: -27109.54 si final: 69481.54
+
+Prim: -26985.86 si final: 86461.86
+
+Prim: -26274.34 si final: 37360.34
+
+Prim: -26273.76 si final: 94095.76
+
+Prim: -26189.83 si final: 108535.83
+
+Prim: -25888.07 si final: 67460.07
+
+Prim: -25876.64 si final: 118788.64
+
+Prim: -25855.22 si final: 100497.22
+
+Prim: -25768.76 si final: 91084.76
+
+Prim: -25758.92 si final: 82754.92
+
+Prim: -25491.12 si final: 34067.12
+
+Prim: -25330.49 si final: 125140.49
+
+Prim: -25277.71 si final: 114247.71
+
+Prim: -25124.27 si final: 73876.27
+
+Prim: -25117.11 si final: 124937.11
+
+Prim: -25100.15 si final: 67194.15
+
+Prim: -25081.33 si final: 52411.33
+
+Prim: -24767.84 si final: 129065.84
+
+Prim: -24716.84 si final: 80558.84
+
+Prim: -24313.01 si final: 79037.01
+
+Prim: -24267.26 si final: 81377.26
+
+Prim: -24166.15 si final: 84314.15
+
+Prim: -24139.87 si final: 35269.87
+
+Prim: -23996.11 si final: 127428.11
+
+Prim: -23991.11 si final: 73213.11
+
+Prim: -23982.47 si final: 86720.47
+
+Prim: -23804.36 si final: 83296.36
+
+Prim: -23486.01 si final: 73426.01
+
+Prim: -23388.25 si final: 78170.25
+
+Prim: -23347.20 si final: 86843.20
+
+Prim: -23204.06 si final: 87312.06
+
+Prim: -23014.86 si final: 47330.86
+
+Prim: -22832.06 si final: 49856.06
+
+Prim: -22827.98 si final: 69245.98
+
+Prim: -22768.04 si final: 37068.04
+
+Prim: -22559.80 si final: 119609.80
+
+Prim: -21747.69 si final: 23995.69
+
+Prim: -21668.64 si final: 23346.64
+
+Prim: -21606.34 si final: 28764.34
+
+Prim: -21563.00 si final: 68729.00
+
+Prim: -21234.37 si final: 38084.37
+
+Prim: -21189.67 si final: 128907.67
+
+Prim: -21072.35 si final: 65756.35
+
+Prim: -21010.14 si final: 59984.14
+
+Prim: -20971.83 si final: 35357.83
+
+Prim: -20966.73 si final: 121662.73
+
+Prim: -20789.83 si final: 62455.83
+
+Prim: -20750.64 si final: 134644.64
+
+Prim: -20736.34 si final: 31780.34
+
+Prim: -20602.32 si final: 99216.32
+
+Prim: -20475.77 si final: 43321.77
+
+Prim: -20472.83 si final: 104504.83
+
+Prim: -20027.88 si final: 38399.88
+
+Prim: -20015.61 si final: 51551.61
+
+Prim: -20008.88 si final: 30428.88
+
+Prim: -19979.68 si final: 114501.68
+
+Prim: -19960.57 si final: 67246.57
+
+Prim: -19915.34 si final: 92665.34
+
+Prim: -19874.30 si final: 85928.30
+
+Prim: -19630.02 si final: 97166.02
+
+Prim: -19589.08 si final: 21091.08
+
+Prim: -19586.86 si final: 29504.86
+
+Prim: -19428.80 si final: 76716.80
+
+Prim: -19201.87 si final: 87213.87
+
+Prim: -19175.08 si final: 51343.08
+
+Prim: -18827.32 si final: 128295.32
+
+Prim: -18703.29 si final: 135269.29
+
+Prim: -18619.48 si final: 94411.48
+
+Prim: -18607.55 si final: 57893.55
+
+Prim: -18590.49 si final: 138112.49
+
+Prim: -18456.91 si final: 72706.91
+
+Prim: -18370.06 si final: 105410.06
+
+Prim: -18305.49 si final: 117531.49
+
+Prim: -18286.13 si final: 118298.13
+
+Prim: -18239.06 si final: 36117.06
+
+Prim: -18061.34 si final: 83995.34
+
+Prim: -17891.52 si final: 76189.52
+
+Prim: -17747.20 si final: 126367.20
+
+Prim: -17694.86 si final: 88332.86
+
+Prim: -17656.35 si final: 105836.35
+
+Prim: -17651.93 si final: 128095.93
+
+Prim: -17574.71 si final: 18784.71
+
+Prim: -17572.98 si final: 93608.98
+
+Prim: -17541.18 si final: 47425.18
+
+Prim: -17529.34 si final: 55077.34
+
+Prim: -17495.69 si final: 67445.69
+
+Prim: -17488.95 si final: 40478.95
+
+Prim: -17440.61 si final: 133686.61
+
+Prim: -17400.49 si final: 84900.49
+
+Prim: -17381.46 si final: 80651.46
+
+Prim: -17360.09 si final: 115162.09
+
+Prim: -17283.09 si final: 126357.09
+
+Prim: -17215.83 si final: 115957.83
+
+Prim: -17120.45 si final: 73516.45
+
+Prim: -16954.38 si final: 102610.38
+
+Prim: -16758.14 si final: 27184.14
+
+Prim: -16595.88 si final: 76349.88
+
+Prim: -16562.47 si final: 20812.47
+
+Prim: -16526.40 si final: 56602.40
+
+Prim: -16456.34 si final: 101786.34
+
+Prim: -16404.23 si final: 70932.23
+
+Prim: -16255.93 si final: 67669.93
+
+Prim: -16181.62 si final: 89697.62
+
+Prim: -16034.66 si final: 130752.66
+
+Prim: -16030.52 si final: 95012.52
+
+Prim: -15817.31 si final: 31861.31
+
+Prim: -15719.18 si final: 21943.18
+
+Prim: -15618.29 si final: 17450.29
+
+Prim: -15546.29 si final: 67838.29
+
+Prim: -15537.04 si final: 23433.04
+
+Prim: -15431.56 si final: 81341.56
+
+Prim: -15340.70 si final: 88502.70
+
+Prim: -15175.59 si final: 34179.59
+
+Prim: -15170.61 si final: 44890.61
+
+Prim: -15163.16 si final: 111443.16
+
+Prim: -15039.10 si final: 90179.10
+
+Prim: -14969.72 si final: 15339.72
+
+Prim: -14904.83 si final: 76330.83
+
+Prim: -14859.35 si final: 137695.35
+
+Prim: -14834.86 si final: 122012.86
+
+Prim: -14811.57 si final: 125245.57
+
+Prim: -14782.82 si final: 67686.82
+
+Prim: -14777.59 si final: 63821.59
+
+Prim: -14777.41 si final: 36115.41
+
+Prim: -14499.50 si final: 36503.50
+
+Prim: -14430.15 si final: 106332.15
+
+Prim: -14176.45 si final: 20688.45
+
+Prim: -14003.95 si final: 58985.95
+
+Prim: -13972.70 si final: 19670.70
+
+Prim: -13944.55 si final: 106434.55
+
+Prim: -13927.79 si final: 43225.79
+
+Prim: -13580.33 si final: 58844.33
+
+Prim: -13556.64 si final: 122136.64
+
+Prim: -13513.25 si final: 81607.25
+
+Prim: -13424.70 si final: 131374.70
+
+Prim: -13420.10 si final: 69562.10
+
+Prim: -13359.86 si final: 78627.86
+
+Prim: -13201.57 si final: 122175.57
+
+Prim: -13194.89 si final: 15188.89
+
+Prim: -13168.54 si final: 73674.54
+
+Prim: -13131.83 si final: 45343.83
+
+Prim: -13108.59 si final: 32342.59
+
+Prim: -13091.34 si final: 84285.34
+
+Prim: -13031.58 si final: 70065.58
+
+Prim: -13008.11 si final: 68992.11
+
+Prim: -12973.99 si final: 95079.99
+
+Prim: -12804.18 si final: 75174.18
+
+Prim: -12782.37 si final: 73840.37
+
+Prim: -12701.28 si final: 128419.28
+
+Prim: -12609.83 si final: 108075.83
+
+Prim: -12545.29 si final: 117251.29
+
+Prim: -12519.62 si final: 75803.62
+
+Prim: -12435.76 si final: 120991.76
+
+Prim: -12310.99 si final: 99440.99
+
+Prim: -12234.17 si final: 53326.17
+
+Prim: -12224.89 si final: 29810.89
+
+Prim: -12013.49 si final: 12279.49
+
+Prim: -12001.79 si final: 50607.79
+
+Prim: -11998.97 si final: 28594.97
+
+Prim: -11941.89 si final: 115315.89
+
+Prim: -11888.91 si final: 95460.91
+
+Prim: -11887.07 si final: 128649.07
+
+Prim: -11877.48 si final: 48303.48
+
+Prim: -11816.90 si final: 56540.90
+
+Prim: -11702.12 si final: 118650.12
+
+Prim: -11551.02 si final: 52783.02
+
+Prim: -11513.33 si final: 13905.33
+
+Prim: -11484.10 si final: 18648.10
+
+Prim: -11468.05 si final: 137676.05
+
+Prim: -11371.40 si final: 20025.40
+
+Prim: -11328.77 si final: 31214.77
+
+Prim: -11239.84 si final: 87985.84
+
+Prim: -11122.90 si final: 71274.90
+
+Prim: -11087.33 si final: 109507.33
+
+Prim: -10991.30 si final: 130105.30
+
+Prim: -10713.47 si final: 116563.47
+
+Prim: -10562.12 si final: 115498.12
+
+Prim: -10493.18 si final: 15663.18
+
+Prim: -10478.47 si final: 57122.47
+
+Prim: -10391.81 si final: 113627.81
+
+Prim: -10086.01 si final: 90730.01
+
+Prim: -9893.71 si final: 115979.71
+
+Prim: -9831.53 si final: 107443.53
+
+Prim: -9822.26 si final: 26786.26
+
+Prim: -9774.51 si final: 123710.51
+
+Prim: -9496.48 si final: 11098.48
+
+Prim: -9286.02 si final: 53496.02
+
+Prim: -9244.82 si final: 136028.82
+
+Prim: -8974.03 si final: 46388.03
+
+Prim: -8902.31 si final: 121852.31
+
+Prim: -8885.29 si final: 139631.29
+
+Prim: -8626.97 si final: 55366.97
+
+Prim: -8452.64 si final: 112424.64
+
+Prim: -8440.38 si final: 129844.38
+
+Prim: -8428.30 si final: 127600.30
+
+Prim: -8404.86 si final: 48676.86
+
+Prim: -8186.01 si final: 110962.01
+
+Prim: -8171.58 si final: 43923.58
+
+Prim: -8169.94 si final: 42013.94
+
+Prim: -8126.59 si final: 72618.59
+
+Prim: -8107.32 si final: 90069.32
+
+Prim: -8085.75 si final: 60803.75
+
+Prim: -8040.60 si final: 132174.60
+
+Prim: -7923.03 si final: 70839.03
+
+Prim: -7913.30 si final: 12667.30
+
+Prim: -7898.83 si final: 110252.83
+
+Prim: -7822.78 si final: 58896.78
+
+Prim: -7805.72 si final: 36155.72
+
+Prim: -7669.53 si final: 134375.53
+
+Prim: -7312.69 si final: 52858.69
+
+Prim: -7233.52 si final: 22103.52
+
+Prim: -7223.45 si final: 18281.45
+
+Prim: -7130.01 si final: 95832.01
+
+Prim: -7105.90 si final: 85039.90
+
+Prim: -6857.07 si final: 18619.07
+
+Prim: -6744.48 si final: 69622.48
+
+Prim: -6697.08 si final: 110233.08
+
+Prim: -6631.76 si final: 10183.76
+
+Prim: -6613.24 si final: 121473.24
+
+Prim: -6598.49 si final: 116568.49
+
+Prim: -6586.19 si final: 66552.19
+
+Prim: -6584.24 si final: 65342.24
+
+Prim: -6560.54 si final: 114024.54
+
+Prim: -6538.66 si final: 31626.66
+
+Prim: -6450.20 si final: 146636.20
+
+Prim: -6401.73 si final: 89221.73
+
+Prim: -6346.81 si final: 78474.81
+
+Prim: -6153.11 si final: 36649.11
+
+Prim: -6145.83 si final: 29317.83
+
+Prim: -6104.90 si final: 28898.90
+
+Prim: -6083.75 si final: 106295.75
+
+Prim: -6028.87 si final: 119494.87
+
+Prim: -5743.92 si final: 73319.92
+
+Prim: -5728.61 si final: 96840.61
+
+Prim: -5705.18 si final: 64329.18
+
+Prim: -5564.22 si final: 18992.22
+
+Prim: -5532.55 si final: 76036.55
+
+Prim: -5521.03 si final: 92737.03
+
+Prim: -5441.76 si final: 39841.76
+
+Prim: -5418.02 si final: 73550.02
+
+Prim: -5403.59 si final: 106937.59
+
+Prim: -5271.37 si final: 65165.37
+
+Prim: -5013.35 si final: 40083.35
+
+Prim: -5003.25 si final: 24985.25
+
+Prim: -4972.39 si final: 111464.39
+
+Prim: -4919.48 si final: 142629.48
+
+Prim: -4862.47 si final: 36804.47
+
+Prim: -4775.98 si final: 55313.98
+
+Prim: -4735.23 si final: 17081.23
+
+Prim: -4643.66 si final: 118743.66
+
+Prim: -4468.74 si final: 49216.74
+
+Prim: -4425.67 si final: 51477.67
+
+Prim: -4373.05 si final: 65005.05
+
+Prim: -4339.95 si final: 131635.95
+
+Prim: -4270.38 si final: 118810.38
+
+Prim: -4186.34 si final: 51846.34
+
+Prim: -3879.55 si final: 80223.55
+
+Prim: -3676.18 si final: 63824.18
+
+Prim: -3077.95 si final: 138947.95
+
+Prim: -3062.97 si final: 48648.97
+
+Prim: -2927.15 si final: 77473.15
+
+Prim: -2895.43 si final: 58703.43
+
+Prim: -2845.53 si final: 15943.53
+
+Prim: -2740.05 si final: 91020.05
+
+Prim: -2706.50 si final: 137216.50
+
+Prim: -2627.32 si final: 24755.32
+
+Prim: -2623.06 si final: 134809.06
+
+Prim: -2497.98 si final: 60513.98
+
+Prim: -2181.63 si final: 41669.63
+
+Prim: -2177.60 si final: 89091.60
+
+Prim: -2150.82 si final: 10506.82
+
+Prim: -2073.96 si final: 34045.96
+
+Prim: -1951.87 si final: 141903.87
+
+Prim: -1769.66 si final: 3635.66
+
+Prim: -1762.54 si final: 2004.54
+
+Prim: -1674.22 si final: 36922.22
+
+Prim: -1650.13 si final: 30398.13
+
+Prim: -1618.58 si final: 40522.58
+
+Prim: -1319.74 si final: 17459.74
+
+Prim: -1218.94 si final: 83870.94
+
+Prim: -1207.41 si final: 42471.41
+
+Prim: -1185.19 si final: 57137.19
+
+Prim: -1173.83 si final: 125949.83
+
+Prim: -1144.37 si final: 154514.37
+
+Prim: -1075.71 si final: 56743.71
+
+Prim: -1051.11 si final: 111563.11
+
+Prim: -1025.55 si final: 71183.55
+
+Prim: -1022.96 si final: 105890.96
+
+Prim: -1013.19 si final: 80321.19
+
+Prim: -852.34 si final: 59860.34
+
+Prim: -826.22 si final: 72288.22
+
+Prim: -804.88 si final: 105016.88
+
+Prim: -668.24 si final: 123126.24
+
+Prim: -619.97 si final: 121291.97
+
+Prim: -388.19 si final: 9376.19
+
+Prim: 25.91 si final: 111682.09
+
+Prim: 112.67 si final: 85595.33
+
+Prim: 153.15 si final: 16484.85
+
+Prim: 167.22 si final: 73712.78
+
+Prim: 246.94 si final: 129095.06
+
+Prim: 258.84 si final: 138759.16
+
+Prim: 266.30 si final: 61601.70
+
+Prim: 339.86 si final: 75672.14
+
+Prim: 570.46 si final: 67323.54
+
+Prim: 630.33 si final: 141755.67
+
+Prim: 642.20 si final: 144957.80
+
+Prim: 948.35 si final: 36397.65
+
+Prim: 1133.07 si final: 71794.93
+
+Prim: 1225.87 si final: 82426.13
+
+Prim: 1245.82 si final: 34616.18
+
+Prim: 1286.05 si final: 6015.95
+
+Prim: 1396.80 si final: 138297.20
+
+Prim: 1503.75 si final: 61718.25
+
+Prim: 1568.72 si final: 70137.28
+
+Prim: 1580.33 si final: 15751.67
+
+Prim: 1588.17 si final: 151335.83
+
+Prim: 1592.56 si final: 36069.44
+
+Prim: 1679.29 si final: 29066.71
+
+Prim: 1729.56 si final: 58054.44
+
+Prim: 1731.29 si final: 41218.71
+
+Prim: 1736.41 si final: 61615.59
+
+Prim: 1750.47 si final: 33027.53
+
+Prim: 1755.54 si final: 7352.46
+
+Prim: 1786.60 si final: 138883.40
+
+Prim: 1844.62 si final: 135061.38
+
+Prim: 1946.87 si final: 115519.13
+
+Prim: 1966.30 si final: 64077.70
+
+Prim: 1995.60 si final: 124664.40
+
+Prim: 2071.30 si final: 84272.70
+
+Prim: 2155.93 si final: 57470.07
+
+Prim: 2157.55 si final: 67636.45
+
+Prim: 2159.96 si final: 94756.04
+
+Prim: 2191.33 si final: 99050.67
+
+Prim: 2334.74 si final: 22757.26
+
+Prim: 2375.84 si final: 35176.16
+
+Prim: 2409.56 si final: 65560.44
+
+Prim: 2574.46 si final: 77135.54
+
+Prim: 2622.95 si final: 118413.05
+
+Prim: 2627.25 si final: 26474.75
+
+Prim: 2706.16 si final: 91795.84
+
+Prim: 2723.43 si final: 71598.57
+
+Prim: 2730.20 si final: 4293.80
+
+Prim: 2843.44 si final: 125938.56
+
+Prim: 2848.10 si final: 40385.90
+
+Prim: 2869.41 si final: 139592.59
+
+Prim: 3079.77 si final: 28206.23
+
+Prim: 3187.74 si final: 7036.26
+
+Prim: 3305.35 si final: 64688.65
+
+Prim: 3461.39 si final: 11448.61
+
+Prim: 3544.55 si final: 91259.45
+
+Prim: 3604.52 si final: 67689.48
+
+Prim: 3609.68 si final: 134158.32
+
+Prim: 3657.18 si final: 11634.82
+
+Prim: 3679.27 si final: 124072.73
+
+Prim: 3728.95 si final: 6605.05
+
+Prim: 3748.04 si final: 77307.96
+
+Prim: 3817.28 si final: 122658.72
+
+Prim: 3854.07 si final: 64767.93
+
+Prim: 3867.58 si final: 104482.42
+
+Prim: 3875.67 si final: 31440.33
+
+Prim: 3956.76 si final: 98507.24
+
+Prim: 4021.08 si final: 138080.92
+
+Prim: 4169.81 si final: 145568.19
+
+Prim: 4203.44 si final: 137640.56
+
+Prim: 4291.98 si final: 135128.02
+
+Prim: 4466.52 si final: 144801.48
+
+Prim: 4493.11 si final: 16302.89
+
+Prim: 4502.90 si final: 66231.10
+
+Prim: 4545.63 si final: 117490.37
+
+Prim: 4715.74 si final: 151316.26
+
+Prim: 4721.02 si final: 52322.98
+
+Prim: 4749.89 si final: 137454.11
+
+Prim: 5092.29 si final: 143841.71
+
+Prim: 5094.48 si final: 134469.52
+
+Prim: 5113.12 si final: 147598.88
+
+Prim: 5134.91 si final: 29423.09
+
+Prim: 5142.38 si final: 61093.62
+
+Prim: 5185.44 si final: 150128.56
+
+Prim: 5195.31 si final: 113924.69
+
+Prim: 5290.52 si final: 48121.48
+
+Prim: 5338.96 si final: 132065.04
+
+Prim: 5347.88 si final: 45410.12
+
+Prim: 5372.33 si final: 27533.67
+
+Prim: 5398.78 si final: 99767.22
+
+Prim: 5573.64 si final: 72312.36
+
+Prim: 5575.95 si final: 67740.05
+
+Prim: 5779.26 si final: 8760.74
+
+Prim: 5956.54 si final: 103989.46
+
+Prim: 6035.85 si final: 85454.15
+
+Prim: 6109.87 si final: 42450.13
+
+Prim: 6153.00 si final: 58229.00
+
+Prim: 6193.68 si final: 56976.32
+
+Prim: 6279.82 si final: 64420.18
+
+Prim: 6348.99 si final: 61917.01
+
+Prim: 6531.89 si final: 79948.11
+
+Prim: 6608.30 si final: 59359.70
+
+Prim: 6619.86 si final: 143774.14
+
+Prim: 6696.54 si final: 103953.46
+
+Prim: 6720.12 si final: 124047.88
+
+Prim: 6727.34 si final: 39824.66
+
+Prim: 6934.05 si final: 84991.95
+
+Prim: 7077.90 si final: 130034.10
+
+Prim: 7129.69 si final: 9560.31
+
+Prim: 7264.00 si final: 80594.00
+
+Prim: 7298.06 si final: 80881.94
+
+Prim: 7312.38 si final: 42009.62
+
+Prim: 7350.85 si final: 88139.15
+
+Prim: 7376.46 si final: 27717.54
+
+Prim: 7419.49 si final: 113212.51
+
+Prim: 7518.33 si final: 67713.67
+
+Prim: 7542.00 si final: 134886.00
+
+Prim: 7575.23 si final: 15988.77
+
+Prim: 7664.35 si final: 22247.65
+
+Prim: 7673.63 si final: 55098.37
+
+Prim: 7702.65 si final: 10679.35
+
+Prim: 7753.20 si final: 25890.80
+
+Prim: 7764.88 si final: 89559.12
+
+Prim: 7893.87 si final: 65100.13
+
+Prim: 8016.34 si final: 69581.66
+
+Prim: 8092.51 si final: 40375.49
+
+Prim: 8593.84 si final: 72990.16
+
+Prim: 9060.77 si final: 127217.23
+
+Prim: 9178.33 si final: 19833.67
+
+Prim: 9381.93 si final: 45976.07
+
+Prim: 9397.95 si final: 130850.05
+
+Prim: 9508.23 si final: 40545.77
+
+Prim: 9688.51 si final: 38273.49
+
+Prim: 9724.53 si final: 129787.47
+
+Prim: 9889.11 si final: 81374.89
+
+Prim: 9915.23 si final: 51294.77
+
+Prim: 9966.37 si final: 61031.63
+
+Prim: 9992.61 si final: 137935.39
+
+Prim: 10030.21 si final: 96633.79
+
+Prim: 10112.22 si final: 75849.78
+
+Prim: 10126.28 si final: 114927.72
+
+Prim: 10305.89 si final: 15462.11
+
+Prim: 10387.76 si final: 15812.24
+
+Prim: 10442.14 si final: 39055.86
+
+Prim: 10466.51 si final: 52109.49
+
+Prim: 10529.11 si final: 52564.89
+
+Prim: 10540.82 si final: 69457.18
+
+Prim: 10694.39 si final: 138421.61
+
+Prim: 11105.76 si final: 145242.24
+
+Prim: 11142.05 si final: 57215.95
+
+Prim: 11151.03 si final: 104594.97
+
+Prim: 11366.79 si final: 86445.21
+
+Prim: 11745.84 si final: 117486.16
+
+Prim: 11826.79 si final: 53551.21
+
+Prim: 12119.64 si final: 123900.36
+
+Prim: 12192.91 si final: 82117.09
+
+Prim: 12683.95 si final: 83432.05
+
+Prim: 12837.82 si final: 103350.18
+
+Prim: 12909.18 si final: 143160.82
+
+Prim: 13045.68 si final: 128572.32
+
+Prim: 13084.59 si final: 21263.41
+
+Prim: 13086.64 si final: 45307.36
+
+Prim: 13108.06 si final: 35987.94
+
+Prim: 13141.38 si final: 105756.62
+
+Prim: 13216.35 si final: 95077.65
+
+Prim: 13264.31 si final: 50423.69
+
+Prim: 13287.69 si final: 20786.31
+
+Prim: 13304.47 si final: 86313.53
+
+Prim: 13340.91 si final: 120705.09
+
+Prim: 13381.60 si final: 142488.40
+
+Prim: 13424.03 si final: 109789.97
+
+Prim: 13488.71 si final: 129245.29
+
+Prim: 13685.14 si final: 73688.86
+
+Prim: 13865.30 si final: 140332.70
+
+Prim: 13944.60 si final: 90977.40
+
+Prim: 13947.08 si final: 24362.92
+
+Prim: 13980.57 si final: 32089.43
+
+Prim: 14145.72 si final: 89540.28
+
+Prim: 14161.75 si final: 134052.25
+
+Prim: 14298.19 si final: 93275.81
+
+Prim: 14317.45 si final: 42648.55
+
+Prim: 14335.03 si final: 51618.97
+
+Prim: 14392.56 si final: 112061.44
+
+Prim: 14475.59 si final: 17974.41
+
+Prim: 14478.27 si final: 141309.73
+
+Prim: 14490.48 si final: 88869.52
+
+Prim: 14501.85 si final: 70908.15
+
+Prim: 14717.88 si final: 44826.12
+
+Prim: 14751.34 si final: 77686.66
+
+Prim: 14803.73 si final: 118872.27
+
+Prim: 14811.45 si final: 95992.55
+
+Prim: 14856.23 si final: 86461.77
+
+Prim: 14889.94 si final: 37650.06
+
+Prim: 14929.06 si final: 104698.94
+
+Prim: 15074.18 si final: 25197.82
+
+Prim: 15079.43 si final: 96236.57
+
+Prim: 15182.67 si final: 49185.33
+
+Prim: 15223.43 si final: 48210.57
+
+Prim: 15225.66 si final: 34982.34
+
+Prim: 15256.78 si final: 47803.22
+
+Prim: 15527.64 si final: 55350.36
+
+Prim: 15675.37 si final: 87606.63
+
+Prim: 15699.67 si final: 120496.33
+
+Prim: 15764.50 si final: 111033.50
+
+Prim: 15984.80 si final: 34515.20
+
+Prim: 16216.69 si final: 21181.31
+
+Prim: 16236.65 si final: 127059.35
+
+Prim: 16291.02 si final: 26840.98
+
+Prim: 16301.32 si final: 48210.68
+
+Prim: 16418.38 si final: 83487.62
+
+Prim: 16473.51 si final: 35698.49
+
+Prim: 16569.54 si final: 76774.46
+
+Prim: 16866.33 si final: 76673.67
+
+Prim: 16888.16 si final: 21919.84
+
+Prim: 17031.90 si final: 23764.10
+
+Prim: 17047.96 si final: 64008.04
+
+Prim: 17103.51 si final: 38862.49
+
+Prim: 17148.50 si final: 22127.50
+
+Prim: 17335.52 si final: 95072.48
+
+Prim: 17462.09 si final: 74495.91
+
+Prim: 17575.62 si final: 90728.38
+
+Prim: 17666.25 si final: 72515.75
+
+Prim: 17696.98 si final: 74429.02
+
+Prim: 17834.08 si final: 99819.92
+
+Prim: 18001.78 si final: 86436.22
+
+Prim: 18125.83 si final: 33370.17
+
+Prim: 18143.06 si final: 115514.94
+
+Prim: 18181.45 si final: 72834.55
+
+Prim: 18264.60 si final: 21193.40
+
+Prim: 18296.45 si final: 67105.55
+
+Prim: 18350.77 si final: 38021.23
+
+Prim: 18420.35 si final: 89551.65
+
+Prim: 18537.48 si final: 57622.52
+
+Prim: 18743.59 si final: 65732.41
+
+Prim: 18748.79 si final: 24791.21
+
+Prim: 18837.44 si final: 24726.56
+
+Prim: 18931.16 si final: 38984.84
+
+Prim: 18950.23 si final: 77291.77
+
+Prim: 19047.99 si final: 68772.01
+
+Prim: 19127.34 si final: 94344.66
+
+Prim: 19167.87 si final: 56878.13
+
+Prim: 19309.15 si final: 27650.85
+
+Prim: 19615.92 si final: 131090.08
+
+Prim: 19781.25 si final: 108760.75
+
+Prim: 19828.72 si final: 53879.28
+
+Prim: 19867.04 si final: 59890.96
+
+Prim: 20332.02 si final: 71061.98
+
+Prim: 20357.80 si final: 98952.20
+
+Prim: 20418.50 si final: 50943.50
+
+Prim: 20456.53 si final: 93719.47
+
+Prim: 20533.12 si final: 48734.88
+
+Prim: 20635.65 si final: 92648.35
+
+Prim: 20947.88 si final: 50280.12
+
+Prim: 20952.34 si final: 48981.66
+
+Prim: 21083.86 si final: 111050.14
+
+Prim: 21188.95 si final: 72235.05
+
+Prim: 21330.69 si final: 121265.31
+
+Prim: 21514.93 si final: 101599.07
+
+Prim: 21556.19 si final: 133293.81
+
+Prim: 21608.84 si final: 47195.16
+
+Prim: 21627.58 si final: 70556.42
+
+Prim: 21822.13 si final: 82601.87
+
+Prim: 21847.80 si final: 23804.20
+
+Prim: 21977.05 si final: 102180.95
+
+Prim: 22083.13 si final: 48732.87
+
+Prim: 22284.15 si final: 32771.85
+
+Prim: 22334.27 si final: 123231.73
+
+Prim: 22561.26 si final: 63964.74
+
+Prim: 22637.97 si final: 48938.03
+
+Prim: 22798.79 si final: 40347.21
+
+Prim: 22801.71 si final: 60938.29
+
+Prim: 22817.57 si final: 101378.43
+
+Prim: 23119.88 si final: 100234.12
+
+Prim: 23292.43 si final: 77145.57
+
+Prim: 23421.89 si final: 59786.11
+
+Prim: 23433.94 si final: 126736.06
+
+Prim: 23825.94 si final: 39372.06
+
+Prim: 23828.62 si final: 50569.38
+
+Prim: 24068.32 si final: 131839.68
+
+Prim: 24195.01 si final: 88758.99
+
+Prim: 24272.13 si final: 51309.87
+
+Prim: 24281.00 si final: 39693.00
+
+Prim: 24293.69 si final: 101216.31
+
+Prim: 24391.50 si final: 97812.50
+
+Prim: 24583.56 si final: 87346.44
+
+Prim: 24693.69 si final: 119560.31
+
+Prim: 24894.95 si final: 110847.05
+
+Prim: 25054.53 si final: 62429.47
+
+Prim: 25109.77 si final: 109912.23
+
+Prim: 25234.97 si final: 78451.03
+
+Prim: 25275.76 si final: 120990.24
+
+Prim: 25306.30 si final: 63241.70
+
+Prim: 25342.66 si final: 113747.34
+
+Prim: 25412.32 si final: 102957.68
+
+Prim: 25496.08 si final: 47029.92
+
+Prim: 25744.50 si final: 49443.50
+
+Prim: 25754.40 si final: 99079.60
+
+Prim: 26125.82 si final: 50524.18
+
+Prim: 26125.99 si final: 60440.01
+
+Prim: 26151.98 si final: 57338.02
+
+Prim: 26358.41 si final: 95209.59
+
+Prim: 27045.66 si final: 47578.34
+
+Prim: 27098.09 si final: 123329.91
+
+Prim: 27140.79 si final: 58729.21
+
+Prim: 27179.64 si final: 98210.36
+
+Prim: 27423.44 si final: 39750.56
+
+Prim: 27428.14 si final: 124095.86
+
+Prim: 27486.17 si final: 69775.83
+
+Prim: 27539.00 si final: 28317.00
+
+Prim: 27567.34 si final: 85434.66
+
+Prim: 27646.84 si final: 57137.16
+
+Prim: 27766.60 si final: 125277.40
+
+Prim: 28036.95 si final: 57829.05
+
+Prim: 28098.85 si final: 90555.15
+
+Prim: 28098.90 si final: 122587.10
+
+Prim: 28184.97 si final: 99139.03
+
+Prim: 28225.85 si final: 32376.15
+
+Prim: 28240.04 si final: 121889.96
+
+Prim: 28247.94 si final: 50620.06
+
+Prim: 28290.81 si final: 78417.19
+
+Prim: 28304.94 si final: 103139.06
+
+Prim: 28458.48 si final: 34189.52
+
+Prim: 28465.74 si final: 121622.26
+
+Prim: 28702.98 si final: 57743.02
+
+Prim: 28857.97 si final: 107232.03
+
+Prim: 29104.61 si final: 36531.39
+
+Prim: 29110.17 si final: 69253.83
+
+Prim: 29145.56 si final: 38076.44
+
+Prim: 29148.11 si final: 102391.89
+
+Prim: 29584.27 si final: 125207.73
+
+Prim: 29698.94 si final: 95561.06
+
+Prim: 29746.93 si final: 119191.07
+
+Prim: 29873.95 si final: 68250.05
+
+Prim: 30025.09 si final: 116896.91
+
+Prim: 30065.50 si final: 110906.50
+
+Prim: 30235.20 si final: 63782.80
+
+Prim: 30571.26 si final: 48186.74
+
+Prim: 30573.44 si final: 109790.56
+
+Prim: 30745.36 si final: 56058.64
+
+Prim: 30798.27 si final: 53687.73
+
+Prim: 30824.32 si final: 67413.68
+
+Prim: 31095.84 si final: 115582.16
+
+Prim: 31241.34 si final: 31578.66
+
+Prim: 31246.29 si final: 36991.71
+
+Prim: 31339.35 si final: 93110.65
+
+Prim: 31361.21 si final: 88514.79
+
+Prim: 31816.51 si final: 95695.49
+
+Prim: 31989.04 si final: 97946.96
+
+Prim: 32218.84 si final: 124307.16
+
+Prim: 32386.18 si final: 114079.82
+
+Prim: 32475.32 si final: 68676.68
+
+Prim: 32614.21 si final: 110245.79
+
+Prim: 32673.49 si final: 83858.51
+
+Prim: 32970.82 si final: 54447.18
+
+Prim: 33008.93 si final: 89693.07
+
+Prim: 33126.57 si final: 46555.43
+
+Prim: 33212.36 si final: 52087.64
+
+Prim: 33342.01 si final: 69231.99
+
+Prim: 33365.88 si final: 111644.12
+
+Prim: 33868.91 si final: 96579.09
+
+Prim: 33878.68 si final: 36879.32
+
+Prim: 34065.82 si final: 35840.18
+
+Prim: 34845.85 si final: 69222.15
+
+Prim: 34953.98 si final: 90910.02
+
+Prim: 34989.42 si final: 75966.58
+
+Prim: 35140.24 si final: 86473.76
+
+Prim: 35265.50 si final: 119416.50
+
+Prim: 35545.48 si final: 95108.52
+
+Prim: 35722.74 si final: 56145.26
+
+Prim: 35751.15 si final: 98106.85
+
+Prim: 35993.67 si final: 98464.33
+
+Prim: 36003.33 si final: 47252.67
+
+Prim: 36015.34 si final: 107534.66
+
+Prim: 36177.85 si final: 54368.15
+
+Prim: 36244.46 si final: 67703.54
+
+Prim: 36264.10 si final: 58597.90
+
+Prim: 36270.81 si final: 43889.19
+
+Prim: 36271.54 si final: 98234.46
+
+Prim: 36305.13 si final: 90258.87
+
+Prim: 36474.29 si final: 92535.71
+
+Prim: 36601.80 si final: 107982.20
+
+Prim: 36622.88 si final: 40797.12
+
+Prim: 36654.64 si final: 66729.36
+
+Prim: 36860.24 si final: 50159.76
+
+Prim: 36929.51 si final: 64532.49
+
+Prim: 37037.98 si final: 46970.02
+
+Prim: 37047.22 si final: 65732.78
+
+Prim: 37361.25 si final: 54382.75
+
+Prim: 37509.62 si final: 82582.38
+
+Prim: 37560.16 si final: 56631.84
+
+Prim: 37581.27 si final: 94988.73
+
+Prim: 37631.82 si final: 40388.18
+
+Prim: 37763.72 si final: 41200.28
+
+Prim: 37790.15 si final: 117701.85
+
+Prim: 37937.81 si final: 86512.19
+
+Prim: 37948.20 si final: 114391.80
+
+Prim: 38038.83 si final: 46457.17
+
+Prim: 38366.96 si final: 102495.04
+
+Prim: 38539.82 si final: 78736.18
+
+Prim: 38826.52 si final: 99007.48
+
+Prim: 38840.85 si final: 77509.15
+
+Prim: 39198.49 si final: 66983.51
+
+Prim: 39258.22 si final: 79449.78
+
+Prim: 39279.08 si final: 84212.92
+
+Prim: 39303.43 si final: 109342.57
+
+Prim: 39310.36 si final: 102657.64
+
+Prim: 39325.11 si final: 97934.89
+
+Prim: 39657.57 si final: 96964.43
+
+Prim: 39696.31 si final: 41561.69
+
+Prim: 39718.15 si final: 40251.85
+
+Prim: 39830.00 si final: 97750.00
+
+Prim: 39919.07 si final: 98298.93
+
+Prim: 39969.32 si final: 76170.68
+
+Prim: 40198.97 si final: 44263.03
+
+Prim: 40218.22 si final: 55845.78
+
+Prim: 40347.28 si final: 50566.72
+
+Prim: 40639.42 si final: 84926.58
+
+Prim: 40671.38 si final: 80436.62
+
+Prim: 40764.67 si final: 67941.33
+
+Prim: 40926.91 si final: 41039.09
+
+Prim: 41815.78 si final: 112784.22
+
+Prim: 41815.87 si final: 84982.13
+
+Prim: 41822.56 si final: 54269.44
+
+Prim: 41925.87 si final: 45506.13
+
+Prim: 42268.48 si final: 65943.52
+
+Prim: 42951.55 si final: 51676.45
+
+Prim: 43401.59 si final: 72058.41
+
+Prim: 43494.47 si final: 60137.53
+
+Prim: 43693.52 si final: 77940.48
+
+Prim: 43784.52 si final: 65155.48
+
+Prim: 43804.00 si final: 71886.00
+
+Prim: 43818.45 si final: 77605.55
+
+Prim: 44011.71 si final: 45872.29
+
+Prim: 44285.13 si final: 44612.87
+
+Prim: 44560.89 si final: 91061.11
+
+Prim: 44610.48 si final: 68285.52
+
+Prim: 44946.56 si final: 78259.44
+
+Prim: 45851.59 si final: 76266.41
+
+Prim: 46019.03 si final: 105332.97
+
+Prim: 46052.62 si final: 70647.38
+
+Prim: 46239.77 si final: 50500.23
+
+Prim: 46316.35 si final: 95417.65
+
+Prim: 46757.16 si final: 85142.84
+
+Prim: 47025.23 si final: 106142.77
+
+Prim: 47032.39 si final: 98121.61
+
+Prim: 47082.47 si final: 96691.53
+
+Prim: 47259.44 si final: 80452.56
+
+Prim: 47353.65 si final: 106490.35
+
+Prim: 47357.77 si final: 70338.23
+
+Prim: 47467.85 si final: 48102.15
+
+Prim: 47468.43 si final: 51005.57
+
+Prim: 47472.77 si final: 67531.23
+
+Prim: 47571.72 si final: 90982.28
+
+Prim: 48018.97 si final: 107467.03
+
+Prim: 48126.63 si final: 60439.37
+
+Prim: 48129.06 si final: 108448.94
+
+Prim: 48246.65 si final: 101151.35
+
+Prim: 48248.95 si final: 52883.05
+
+Prim: 48376.01 si final: 68673.99
+
+Prim: 48545.74 si final: 62918.26
+
+Prim: 48601.23 si final: 70666.77
+
+Prim: 48608.22 si final: 103433.78
+
+Prim: 49458.29 si final: 89333.71
+
+Prim: 49793.66 si final: 100164.34
+
+Prim: 49795.79 si final: 77480.21
+
+Prim: 49839.67 si final: 55762.33
+
+Prim: 49913.47 si final: 53498.53
+
+Prim: 50023.41 si final: 72850.59
+
+Prim: 50160.01 si final: 55047.99
+
+Prim: 50548.14 si final: 91831.86
+
+Prim: 50608.56 si final: 96591.44
+
+Prim: 50782.84 si final: 86117.16
+
+Prim: 51170.76 si final: 57371.24
+
+Prim: 51238.51 si final: 100689.49
+
+Prim: 51966.66 si final: 58459.34
+
+Prim: 52396.89 si final: 99879.11
+
+Prim: 52519.51 si final: 55558.49
+
+Prim: 52560.49 si final: 76829.51
+
+Prim: 52868.73 si final: 98243.27
+
+Prim: 53752.97 si final: 79665.03
+
+Prim: 54138.13 si final: 98343.87
+
+Prim: 54392.92 si final: 75577.08
+
+Prim: 54758.61 si final: 57893.39
+
+Prim: 54809.11 si final: 83192.89
+
+Prim: 55039.34 si final: 95350.66
+
+Prim: 55249.54 si final: 76256.46
+
+Prim: 55342.82 si final: 62779.18
+
+Prim: 55525.07 si final: 58132.93
+
+Prim: 55881.96 si final: 67160.04
+
+Prim: 56002.12 si final: 64113.88
+
+Prim: 56202.92 si final: 61201.08
+
+Prim: 56418.33 si final: 83853.67
+
+Prim: 56428.26 si final: 83403.74
+
+Prim: 56559.87 si final: 84522.13
+
+Prim: 56586.83 si final: 56809.17
+
+Prim: 56660.14 si final: 61873.86
+
+Prim: 57009.79 si final: 62458.21
+
+Prim: 57017.49 si final: 98454.51
+
+Prim: 57173.12 si final: 78936.88
+
+Prim: 57202.27 si final: 68197.73
+
+Prim: 57247.55 si final: 65972.45
+
+Prim: 57427.19 si final: 65610.81
+
+Prim: 57429.12 si final: 66522.88
+
+Prim: 58205.66 si final: 64310.34
+
+Prim: 58267.58 si final: 77358.42
+
+Prim: 58442.31 si final: 60307.69
+
+Prim: 58641.29 si final: 81942.71
+
+Prim: 58760.80 si final: 76903.20
+
+Prim: 58763.32 si final: 85010.68
+
+Prim: 59178.15 si final: 67131.85
+
+Prim: 59376.50 si final: 76637.50
+
+Prim: 59384.28 si final: 81109.72
+
+Prim: 59546.99 si final: 94249.01
+
+Prim: 59668.84 si final: 64777.16
+
+Prim: 60576.69 si final: 90699.31
+
+Prim: 61216.53 si final: 69735.47
+
+Prim: 62030.79 si final: 76063.21
+
+Prim: 62500.10 si final: 75861.90
+
+Prim: 62856.75 si final: 69445.25
+
+Prim: 64500.02 si final: 79729.98
+
+Prim: 66418.01 si final: 89637.99
+
+Prim: 66527.88 si final: 70314.12
+
+Prim: 67086.35 si final: 77765.65
+
+Prim: 67373.86 si final: 72506.14
+
+Prim: 67879.53 si final: 84388.47
+
+Prim: 68417.87 si final: 71610.13
+
+Prim: 69246.50 si final: 74613.50
+
+Prim: 69725.51 si final: 82900.49
+
+Prim: 70477.56 si final: 76486.44
+
+Prim: 71136.32 si final: 84713.68
+
+Prim: 71347.25 si final: 80172.75
+
+Prim: 71521.81 si final: 81674.19
+
+Prim: 73589.29 si final: 74654.71
+
+Prim: 75028.48 si final: 76079.52
+
+Prim: 78410.68 si final: 78489.32
+
+No aspensors can be placed...

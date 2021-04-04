@@ -1,0 +1,1 @@
+Al doilea algoritm, respectiv a doua metoda de rezolvare in C

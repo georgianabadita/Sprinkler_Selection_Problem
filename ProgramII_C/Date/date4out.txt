@@ -1,0 +1,55 @@
+Prim: -306.68 si final: 434.68
+
+Prim: -239.75 si final: 583.75
+
+Prim: -169.35 si final: 373.35
+
+Prim: -146.98 si final: 594.98
+
+Prim: -127.82 si final: 675.82
+
+Prim: -117.95 si final: 157.95
+
+Prim: -108.97 si final: 564.97
+
+Prim: -72.93 si final: 230.93
+
+Prim: -70.51 si final: 744.51
+
+Prim: -66.27 si final: 122.27
+
+Prim: -46.17 si final: 160.17
+
+Prim: -43.98 si final: 799.98
+
+Prim: -35.31 si final: 153.31
+
+Prim: -31.80 si final: 645.80
+
+Prim: -30.66 si final: 454.66
+
+Prim: 28.48 si final: 857.52
+
+Prim: 29.51 si final: 458.49
+
+Prim: 35.13 si final: 80.87
+
+Prim: 61.49 si final: 580.51
+
+Prim: 66.38 si final: 773.62
+
+Prim: 91.15 si final: 530.85
+
+Prim: 124.34 si final: 343.66
+
+Prim: 142.83 si final: 745.17
+
+Prim: 147.80 si final: 258.20
+
+Prim: 162.17 si final: 217.83
+
+Prim: 182.03 si final: 541.97
+
+Prim: 238.47 si final: 511.53
+
+You will need a min of  2 aspensors. 

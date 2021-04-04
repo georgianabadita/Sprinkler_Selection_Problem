@@ -1,0 +1,75 @@
+Prim: -6681.16 si final: 7009.16
+
+Prim: -6329.66 si final: 7053.66
+
+Prim: -5960.62 si final: 8366.62
+
+Prim: -5609.12 si final: 7343.12
+
+Prim: -5326.12 si final: 5940.12
+
+Prim: -4280.81 si final: 7786.81
+
+Prim: -4093.74 si final: 5721.74
+
+Prim: -3592.51 si final: 8810.51
+
+Prim: -3421.03 si final: 4991.03
+
+Prim: -3358.38 si final: 4682.38
+
+Prim: -3243.36 si final: 8793.36
+
+Prim: -2255.36 si final: 6257.36
+
+Prim: -2116.81 si final: 13472.81
+
+Prim: -1985.49 si final: 12727.49
+
+Prim: -1884.91 si final: 13954.91
+
+Prim: -1876.20 si final: 10564.20
+
+Prim: -1638.24 si final: 3426.24
+
+Prim: -1634.09 si final: 7198.09
+
+Prim: -1182.21 si final: 6044.21
+
+Prim: -870.23 si final: 11092.23
+
+Prim: -768.74 si final: 13638.74
+
+Prim: -338.01 si final: 4868.01
+
+Prim: -70.41 si final: 3510.41
+
+Prim: -25.94 si final: 12269.94
+
+Prim: 157.07 si final: 2500.93
+
+Prim: 278.43 si final: 7437.57
+
+Prim: 522.72 si final: 3265.28
+
+Prim: 561.16 si final: 12454.84
+
+Prim: 601.28 si final: 2306.72
+
+Prim: 1018.51 si final: 1329.49
+
+Prim: 1641.09 si final: 3838.91
+
+Prim: 2660.62 si final: 7941.38
+
+Prim: 2724.69 si final: 4681.31
+
+Prim: 2776.83 si final: 8649.17
+
+Prim: 4112.84 si final: 9839.16
+
+Prim: 5643.37 si final: 8166.63
+
+Prim: 6802.76 si final: 7573.24
+
+No aspensors can be placed...

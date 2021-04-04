@@ -1,0 +1,77 @@
+Prim: 0.68 si final: 1.32
+
+Prim: 1.84 si final: 2.16
+
+Prim: 2.39 si final: 3.61
+
+Prim: 4.19 si final: 5.81
+
+Prim: 4.70 si final: 7.30
+
+Prim: 5.01 si final: 8.99
+
+Prim: 5.29 si final: 10.71
+
+Prim: 8.85 si final: 11.15
+
+Prim: 9.14 si final: 12.86
+
+Prim: 9.92 si final: 14.08
+
+Prim: 10.64 si final: 15.36
+
+Prim: 12.78 si final: 17.22
+
+Prim: 13.11 si final: 14.89
+
+Prim: 13.16 si final: 14.84
+
+Prim: 13.29 si final: 18.71
+
+Prim: 13.53 si final: 14.47
+
+Prim: 13.90 si final: 18.10
+
+Prim: 14.00 si final: 18.00
+
+Prim: 14.23 si final: 15.77
+
+Prim: 15.28 si final: 18.72
+
+Prim: 15.51 si final: 18.49
+
+Prim: 15.58 si final: 18.42
+
+Prim: 15.61 si final: 20.39
+
+Prim: 16.11 si final: 19.89
+
+Prim: 16.15 si final: 17.85
+
+Prim: 17.24 si final: 20.76
+
+Prim: 17.39 si final: 18.61
+
+Prim: 17.83 si final: 18.17
+
+Prim: 17.95 si final: 22.05
+
+Prim: 18.23 si final: 21.77
+
+Prim: 18.41 si final: 23.59
+
+Prim: 18.42 si final: 19.58
+
+Prim: 18.75 si final: 19.25
+
+Prim: 19.82 si final: 22.18
+
+Prim: 20.05 si final: 21.95
+
+Prim: 20.43 si final: 21.57
+
+Prim: 20.60 si final: 23.40
+
+Prim: 20.76 si final: 21.24
+
+No aspensors can be placed...
