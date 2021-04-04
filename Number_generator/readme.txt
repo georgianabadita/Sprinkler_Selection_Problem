@@ -1,0 +1,1 @@
+Generatorul de date de intrare netriviale, datele generate sunt cuprinse intre anumite limite inferioare si superioare

@@ -1,0 +1,1 @@
+Primul algoritm, respectiv prima metoda de rezolvare in C
